@@ -1,0 +1,36 @@
+li
+{
+  list-style-type: none;
+}
+ 
+footer
+{
+  padding-top: 5vh;
+  padding-bottom: 2vh;
+  background-color: grey;
+  width: 100%;
+  justify-content: center;
+  padding-left: 25%;
+}
+
+.logo
+{
+  height: 8vh;
+}
+
+@media (max-width: 600px) 
+{
+  li
+  {
+    margin-left: 10px;
+    margin-bottom: 1vh;
+    margin-left: 20px;
+     
+  }
+  
+  .sozial
+  {
+    margin-bottom: 1vh;  
+    padding: 10px;
+  }
+}
